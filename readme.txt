@@ -97,11 +97,19 @@ Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign 
 
 == Screenshots ==
 
-1. After the activation of plugin, you may click on 'settings' link of the plugin as shown in below picture. 
+1. After the activation of plugin, you may click on 'settings' link of the plugin as shown in below picture.
+ 
 2. Please enter your CBproAds.com account ID here in this step. [Sign up @ CBproAds.com](http://cbproads.com/join.asp) to get one. It is absoultely free to join.
+
 3. Create a new page and place the 3 shorcodes listed below.
-4. Now create an another page and place the shortcode `[clickbank-niche-storefront]`. This is the page you need to select for **CB Categories Widget Output Page** 
-   setting on the plugin's settings page. On next step, you may choose the category bar widget from your theme's widget area. We provide 3 type of widgets. You may choose any as per your choice.
-5.  Widget 1
-6.  Widget 2
-7.  Widget 3
+
+4. Now create an another page and place the shortcode `[clickbank-niche-storefront]`. 
+
+5. You need to join the page which is just created on above step 4, with the **CB Categories Widget Output Page** 
+   setting on the plugin's settings page. 
+
+6. Go to the widgets area of your theme, select **CB search widget** for product searching feature. Now, you may choose the category bar widget from your theme's widget area. We provide 3 type of widgets. You may choose any as per your choice.
+
+7.  Vertical Category Widget 
+8.  Horizontal Category Widget 
+9.  Horizontal thumbnail Widget
