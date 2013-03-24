@@ -1,7 +1,7 @@
 === Clickbank Storefront (Mall)  WP Plugin ===
 Contributors: dactum
 Donate link: http://cbproads.com
-Tags: clickbank, Clickbank Storefront, Clickbank Mall, CB Storefront plugin, Clickbank Mall plugin, clickbank mall 
+Tags: Clickbank, Clickbank Storefront, Clickbank Mall, CB Storefront plugin, Clickbank Mall plugin, clickbank mall 
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
@@ -25,7 +25,7 @@ Using this plugin, you can host more than 10,000 clickbank products on your webs
 
 
 
-`[**CBproAds.com Unique Features**]` 
+`[CBproAds.com Unique Features]` 
 
 1. We are only plugin provider that offers **IMPROVED title & descriptions** of every clickbank products. 
    We frame the title & description of each products according to end users point of view. Many of our 
@@ -103,7 +103,7 @@ Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign 
 
 3. Create a new page and place the 3 shorcodes listed below.
 
-4. Now create an another page and place the shortcode `[clickbank-niche-storefront]`. 
+4. Now create an another page and place the shortcode `[clickbank-storefront-products]`. 
 
 5. You need to join the page which is just created on above step 4, with the **CB Categories Widget Output Page** 
    setting on the plugin's settings page. 
