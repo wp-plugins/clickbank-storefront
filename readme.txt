@@ -68,11 +68,11 @@ Using this plugin, you can host more than 10,000 clickbank products on your webs
 
 1. Upload `clickbank-storefronts-1.0.14` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the '**Plugins**' menu in WordPress
-2. Place the following **shortcode** to your store main page.
+2. Place the following **shortcode** on to your store main page.
 
-**[clickbank-storefront-bestselling]**
-**[clickbank-storefront-featured]**
-**[clickbank-storefront-popular]**
+      [clickbank-storefront-bestselling]
+      [clickbank-storefront-featured]
+      [clickbank-storefront-popular]
 
 
 Please visit the link [Clickbank Storefront WordPress Plugin](http://cbproads.com/clickbank_storefront_wordpress_plugin.asp) 
@@ -101,7 +101,7 @@ Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign 
 2. Please enter your CBproAds.com account ID here in this step. [Sign up @ CBproAds.com](http://cbproads.com/join.asp) to get one. It is absoultely free to join.
 3. Create a new page and place the 3 shorcodes listed below.
 4. Now create an another page and place the shortcode `[clickbank-niche-storefront]`. This is the page you need to select for **CB Categories Widget Output Page** 
-   setting on the plugins settings page. Now choose the category bar widget from your theme's widget area. We provide 3 type of widgets. You may choose any as per your choice.
+   setting on the plugin's settings page. On next step, you may choose the category bar widget from your theme's widget area. We provide 3 type of widgets. You may choose any as per your choice.
 5.  Widget 1
 6.  Widget 2
 7.  Widget 3
