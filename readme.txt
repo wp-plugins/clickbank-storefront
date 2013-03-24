@@ -1,7 +1,7 @@
 === Clickbank Storefront (Mall)  WP Plugin ===
 Contributors: dactum
 Donate link: http://cbproads.com
-Tags: Clickbank, Clickbank Storefront, Clickbank Mall, CB Storefront plugin, Clickbank Mall plugin, clickbank mall 
+Tags: Clickbank Storefront, CB Storefront plugin, Clickbank Mall plugin, marketplace plugin, clickbank, affiliate, adsense, hoplink, cbmall, clickbank marketplace, clickbank mall, cbproads, wordpress marketplace, clickbank plugin, affiliate plugin, mall, ebooks
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
