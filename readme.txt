@@ -1,9 +1,9 @@
-=== Clickbank Storefront (Mall)  WP Plugin ===
+=== Clickbank Wordpress Plugin (Storefront)===
 Contributors: dactum
 Donate link: http://cbproads.com
-Tags: Clickbank Storefront, CB Storefront plugin, Clickbank Mall plugin, marketplace plugin, clickbank, affiliate, adsense, hoplink, cbmall, clickbank marketplace, clickbank mall, cbproads, wordpress marketplace, clickbank plugin, affiliate plugin, mall, ebooks
+Tags: Clickbank Wordpress Plugin, Clickbank Storefront, CB Storefront plugin, Clickbank Mall plugin, marketplace plugin, clickbank, affiliate, adsense, hoplink, cbmall, clickbank marketplace, clickbank mall, cbproads, wordpress marketplace, clickbank plugin, affiliate plugin, mall, ebooks
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ We take care of the rest!
 
 == Description ==
 
-=  Clickbank Storefront (Mall) WordPress Plugin  =
+=  Clickbank Wordpress Plugin (Storefront)  =
 
 
 **Clickbank&reg;** is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make tons of CASH by promoting these products.
