@@ -75,7 +75,7 @@ Using this plugin, you can host more than 10,000 clickbank products on your webs
       [clickbank-storefront-popular]
 
 
-Please visit the link [Clickbank Storefront WordPress Plugin](http://cbproads.com/clickbank_storefront_wordpress_plugin.asp) 
+Please visit the link [Clickbank WordPress Plugin](http://cbproads.com/clickbank_storefront_wordpress_plugin.asp) 
 for more information on how to install. It is easy and takes clickbank 2 minutes. 
 
 
